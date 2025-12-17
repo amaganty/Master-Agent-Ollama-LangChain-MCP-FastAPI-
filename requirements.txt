@@ -1,0 +1,15 @@
+fastapi
+
+uvicorn
+
+langchain
+
+langgraph
+
+langchain-ollama
+
+mcp
+
+langchain-mcp-adapters
+
+pydantic
